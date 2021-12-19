@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vodafone API", "Vodafone API\Vodafone API.csproj", "{CA541649-4473-4FC1-A58A-81427681150C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vodafone API Tests", "Vodafone API Tests\Vodafone API Tests.csproj", "{24A7891A-7E33-48A2-A945-03478F9BBBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA541649-4473-4FC1-A58A-81427681150C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA541649-4473-4FC1-A58A-81427681150C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA541649-4473-4FC1-A58A-81427681150C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA541649-4473-4FC1-A58A-81427681150C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A7891A-7E33-48A2-A945-03478F9BBBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A7891A-7E33-48A2-A945-03478F9BBBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A7891A-7E33-48A2-A945-03478F9BBBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A7891A-7E33-48A2-A945-03478F9BBBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E16AF108-2874-4A07-A483-197F1022DD00}
+	EndGlobalSection
+EndGlobal
