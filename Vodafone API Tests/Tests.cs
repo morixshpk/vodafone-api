@@ -10,11 +10,14 @@ namespace Vodafone.API.Tests
         {
             try
             {
-                ApiClient.Init("apiUrl e dhene nga vodafone", "username i dhene nga vodafone", "password i llogarise");
+                ApiClient.Init(
+                    "apiUrl e dhene nga vodafone",
+                    "Sender Name or Number",
+                    "Username i dhene nga vodafone",
+                    "Password i dhene nga llogarise");
 
                 var sms = new Sms
                 {
-                    SenderId = "Morix shpk",
                     Recipients = new string[] { "nr telefonit venodset ketu", "numri i dyte" },
                     Message = "Mesazhi qe doni te dergoni vendset ketu",
                 };

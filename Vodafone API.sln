@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vodafone API", "Vodafone API\Vodafone API.csproj", "{CA541649-4473-4FC1-A58A-81427681150C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vodafone API Tests", "Vodafone API Tests\Vodafone API Tests.csproj", "{24A7891A-7E33-48A2-A945-03478F9BBBCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vodafone API Tests", "Vodafone API Tests\Vodafone API Tests.csproj", "{24A7891A-7E33-48A2-A945-03478F9BBBCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vodafone API", "Vodafone API\Vodafone API.csproj", "{A4CB2FCC-D638-41D1-AE5E-32005639A95E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CA541649-4473-4FC1-A58A-81427681150C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA541649-4473-4FC1-A58A-81427681150C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA541649-4473-4FC1-A58A-81427681150C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA541649-4473-4FC1-A58A-81427681150C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{24A7891A-7E33-48A2-A945-03478F9BBBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{24A7891A-7E33-48A2-A945-03478F9BBBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A7891A-7E33-48A2-A945-03478F9BBBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A7891A-7E33-48A2-A945-03478F9BBBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CB2FCC-D638-41D1-AE5E-32005639A95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CB2FCC-D638-41D1-AE5E-32005639A95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CB2FCC-D638-41D1-AE5E-32005639A95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CB2FCC-D638-41D1-AE5E-32005639A95E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
